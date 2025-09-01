@@ -1,12 +1,12 @@
-Genetischer Algorithmus für das 2D HP-Modell
+# Genetischer Algorithmus für das 2D HP-Modell
 
 Dieses Projekt implementiert einen genetischen Algorithmus in Java, der optimale Faltungen einer Aminosäure-Sequenz im 2D HP-Modell sucht.
 
-Ziel
+# Ziel
 
 Das Ziel war, einen funktionierenden Algorithmus zu entwickeln, der gute Protein-Faltungen findet. 
 
-Meilensteine
+# Meilensteine
 
 Implementierung des genetischen Algorithmus
 
